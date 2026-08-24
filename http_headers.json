@@ -1,0 +1,50 @@
+{
+  "domain": "networkwalks.com",
+  "analysis_date": "2026-08-24",
+  "location": "UNITED STATES",
+  "contact_email": "info@networkwalks.com",
+  "ip_address": "192.232.16.135",
+  "http_responses": [
+    {
+      "status_code": 301,
+      "status_message": "Moved Permanently",
+      "description": "Redirect response"
+    },
+    {
+      "status_code": 200,
+      "status_message": "OK",
+      "description": "Successful response"
+    }
+  ],
+  "server_info": {
+    "web_server": "Apache",
+    "reverse_proxy": "Nginx",
+    "cms": "WordPress",
+    "wordpress_versions": ["7.1", "7.7.1"],
+    "plugins": {
+      "download_manager": "3.3.58"
+    }
+  },
+  "technologies": [
+    "Bootstrap [7.1]",
+    "jQuery [7.1]",
+    "NetGenerator",
+    "Google Tag Manager",
+    "HTML5",
+    "Open-Graph-Protocol",
+    "application/ld+json",
+    "application/json"
+  ],
+  "security_headers": {
+    "permissions_policy": "Configured",
+    "referrer_policy": "Configured",
+    "x_endurance_cache_level": "Configured",
+    "x_nginx_cache": "Configured",
+    "x_redirect_by": "Configured",
+    "httponly_cookies": true
+  },
+  "cookies": [
+    "WPDM_client",
+    "Country"
+  ]
+}
