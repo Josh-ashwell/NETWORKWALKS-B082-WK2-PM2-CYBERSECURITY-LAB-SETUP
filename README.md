@@ -1,5 +1,25 @@
-## PENETRATION TESTING REPORT OF LAB SET-UP
-|WEEK 2 |FOOTPRINTING & NETWORK SCANNING PHASES|
+## WEEK 2: PENETRATION TESTING REPORT OF LAB SET-UP
+
+<div align="center">
+
+# 
+
+🔐 **PFOOTPRINTING & NETWORK SCANNING PHASES|**
+</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Skill-Cybersecurity-404040?style=flat-square&labelColor=C00000" />
+  <img src="https://img.shields.io/badge/Ver-Virtualbox%20v7.2-0070C0?style=flat-square&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Kali%20Linux-v2026.2-E87500?style=flat-square&labelColor=000000&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Skill-Linux-404040?style=flat-square&labelColor=C00000" />
+  <img src="https://img.shields.io/badge/Network-10.0.0.0%2F24-238F89?style=flat-square&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Penetration%20Testing-C00000?style=flat-square&labelColor=000000&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Skill-Virtualization-404040?style=flat-square&labelColor=C00000" />
+  <img src="https://img.shields.io/badge/GitHub-404040?style=flat-square&labelColor=0070C0&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali%20Linux-404040?style=flat-square&labelColor=C00000&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/NetworkWalks-404040?style=flat-square&labelColor=C00000" />
+  <img src="https://img.shields.io/badge/Ethical%20Hacking-E87500?style=flat-square&labelColor=000000&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Waqas%20Karim%20CCIE-C00000?style=flat-square" />
+</p>
 
 
       
@@ -9,7 +29,7 @@
 | Date       |   24 August 2026       | 
 | Modules Completed          |  W2-PM1 (Mulitple Kali Tools) >W2-PM5 (Zenmap Scanning) |
 | Client/Target| Networkwalks (secured a written permission already>My own local LAN Network)
-| `pPermission Secured from client?      | yes✅  | 
+| Permission Secured from client?      | yes✅  | 
 | Phases Covered | ## Phase 1: Reconnaissance & Footprinting> ## Phase 2:Scanning & Network Discovery> ## Phase 3-5: in Peogress |
 
 
@@ -53,7 +73,17 @@ ________________________________________________________________________________
 4.1 Footprinting & Reconnaissance
 
 I carried out reconnaissance on the networkwalks.com domain with six Kali Linux tools: WHOIS, WhatWeb, Nslookup, Curl, Wafw00f and DNSRecon. Each utility was selected to gather a specific category of information about the target. 
-The first step involved WHOIS, which I used to collect publicly available registration information and identify the domain name servers. This supplied useful details about the domain and elements of its hosting infrastructure.
+The first step involved WHOIS, which I used to collect publicly available registration information and identify the domain name servers. This supplied useful details about the domain and elements of its hosting infrastructure. WHOIS Footprinting
+
+As part of the reconnaissance phase, I used the whois utility in Kali Linux to obtain publicly available registration information associated with the networkwalks.com domain.
+
+The command executed was:
+
+whois networkwalks.com
+
+The response identified NETWORKWALKS.COM as the queried domain and returned registration-related information including the registry domain ID, WHOIS server, registrar, domain creation date, last update date, expiry date and current domain status.
+
+The output identified GoDaddy.com, LLC as the registrar and showed the domain status as clientDeleteProhibited.
 .
 
 Next, I used 'WhatWeb' to examine the technologies exposed by the website. The scan identified WordPress 7.0.4 and WP Download Manager 3.7.1, together with other publicly detectable technical information.
@@ -133,12 +163,14 @@ Most importantly, I learned that reconnaissance and network scanning must remain
 
 
 
--End-
+ -End-
 
 
  👤 Author
  Ashikem Joshua Bengioushuye
+
  Cybersecurity Professional B082
+ 
  LinkedIn: www.linkedin.com/in/ashiwelljosh
 ________________________________________
 📌 Project Information
