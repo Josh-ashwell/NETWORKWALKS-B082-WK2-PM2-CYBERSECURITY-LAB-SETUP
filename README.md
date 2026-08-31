@@ -1,25 +1,16 @@
 ## PENETRATION TESTING REPORT OF LAB SET-UP
 |WEEK 2 |FOOTPRINTING & NETWORK SCANNING PHASES|
-W2-PM-FINAL | CYBERSECURITY |  NETWORKWALKS
-
-🎯Pentester's Name      
---------------------------------------------
-Ashikem Joshua Bengioushuye
-(Cybersecurity Professional)
-Program/Batch	B082-Networkwalks
----------------------------------------------
-
-Date	24 August 2026
-Modules completed	W2-PM1 (Multiple Kali Tools)
-W2-PM5 (Zenmap Scanning)
-Client/Target	1. Networkwalks (secured written permission already)
-2. My own local LAN Network
-Permission secured from client?	Yes
-Phases covered	Phase 1: Reconnaissance & Footprinting
-Phase 2: Scanning & Network Discovery
-Phase 3-5: In Progress
 
 
+      
+| 🎯Pentester's Name            |    Ashikem Joshua Bengioushuye|
+| ------------------- | -----------------------------------------|
+| Program Batch |   B082-Networkwalks  | 
+| Date       |   24 August 2026       | 
+| Modules Completed          |  W2-PM1 (Mulitple Kali Tools) >W2-PM5 (Zenmap Scanning) |
+| Client/Target| Networkwalks (secured a written permission already>My own local LAN Network)
+| `pPermission Secured from client?      | yes✅  | 
+| Phases Covered | ## Phase 1: Reconnaissance & Footprinting> ## Phase 2:Scanning & Network Discovery> ## Phase 3-5: in Peogress |
 
 
 
@@ -139,23 +130,16 @@ These exercises demonstrated the importance of information gathering in cybersec
 Another key lesson was the importance of presenting technical findings in a clear and structured manner. An effective cybersecurity report should state the activity performed, the evidence obtained, the meaning of each observation, the possible security impact and the recommended corrective action. 
 Most importantly, I learned that reconnaissance and network scanning must remain within an approved scope. All activities documented in this report were completed for the assigned educational cybersecurity practical and within the stated authorization requirements.
 
-8. Evidences Collected
-
-
-
-
-
-
 
 
 
 -End-
 
 
-👤 Author
-Ashikem Joshua Bengioushuye
-Cybersecurity Professional B082
-LinkedIn: www.linkedin.com/in/ashiwelljosh
+ 👤 Author
+ Ashikem Joshua Bengioushuye
+ Cybersecurity Professional B082
+ LinkedIn: www.linkedin.com/in/ashiwelljosh
 ________________________________________
 📌 Project Information
 Program Name: Cybersecurity program at Networkwalks | Week: 02 | Repository: GitHub
